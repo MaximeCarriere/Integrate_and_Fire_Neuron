@@ -8,7 +8,7 @@ Code adapted from Trappenberg book
 
 https://fr.mathworks.com/academia/books/fundamentals-of-computational-neuroscience-trappenberg.html
 
-# Neural_Network_3_neurons
+# Phase_Locking_3_neurons
 
 - 3 fully connected neurons
 - Graphic representation of:
@@ -16,4 +16,18 @@ https://fr.mathworks.com/academia/books/fundamentals-of-computational-neuroscien
     - Spike 
 
 Play with the value of weights to change from excitatory to inhibitory neurons
+
+# Structured_neural_network
+
+Code adapted from Trappenberg book ==> Izikevitch network
+
+
+- 1000 fully connected neurons, 800 Excitatory and 200 Inhibitory
+- Graphic representation of:
+    - Raster plot
+
+Observation of a structured raster plot with balance Excitation-Inhibition
+
+Play with the number of Excitatory and Inhibitory Neurons to observe different structures
+(line 21)  Ne=800;                Ni=200; 
 
