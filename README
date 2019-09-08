@@ -1,0 +1,19 @@
+# Integrate and Fire neurons
+
+Different implementation of the Integrate and fire neurons
+
+https://web.archive.org/web/20070613230629/http://neurotheory.columbia.edu/~larry/AbbottBrResBul99.pdf
+
+Code adapted from Trappenberg book
+
+https://fr.mathworks.com/academia/books/fundamentals-of-computational-neuroscience-trappenberg.html
+
+# Neural_Network_3_neurons
+
+- 3 fully connected neurons
+- Graphic representation of:
+    - Memrane potential
+    - Spike 
+
+Play with the value of weights to change from excitatory to inhibitory neurons
+
